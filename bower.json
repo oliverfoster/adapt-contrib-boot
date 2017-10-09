@@ -1,0 +1,13 @@
+{
+  "name": "adapt-contrib-boot",
+  "version": "3.0.0",
+  "framework": ">=2.0.11",
+  "core" : "core",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-core"
+  ],
+  "license": "GPLv3",
+  "dependencies": {
+  }
+}
